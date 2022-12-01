@@ -34,3 +34,4 @@ function operate(num1, operator, num2) {
       break;
   };
 };
+
