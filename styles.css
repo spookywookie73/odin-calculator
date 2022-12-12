@@ -12,7 +12,7 @@ body {
   height: 230px;
   border-style: solid;
   border-radius: 10px;
-  padding: 5px 5px 5px 5px;
+  padding: 8px 5px 8px 5px;
   background-color: silver;
 }
 
@@ -30,11 +30,13 @@ button {
 .display {
   display: flex;
   justify-content: right;
-  padding-top: 10px;
+  width: 148px;
+  height: 29px;
+  margin-bottom: 5px;
   padding-right: 3px;
   border: 1px solid #000;
   background-color: rgb(205, 249, 194);
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .function-btn {
@@ -53,3 +55,6 @@ button {
   background-color: rgb(252, 83, 83);
 }
 
+#decimal {
+  background-color: rgb(120, 217, 246);
+}
